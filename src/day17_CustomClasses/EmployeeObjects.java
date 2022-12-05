@@ -1,4 +1,4 @@
-package day17;
+package day17_CustomClasses;
 
 public class EmployeeObjects {
     public static void main(String[] args) {

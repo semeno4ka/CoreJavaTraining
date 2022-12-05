@@ -1,6 +1,4 @@
-package day17;
-
-import jdk.swing.interop.SwingInterOpUtils;
+package day17_CustomClasses;
 
 public class TestDogObjects {
     public static void main(String[] args) {

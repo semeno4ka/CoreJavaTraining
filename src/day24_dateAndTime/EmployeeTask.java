@@ -2,7 +2,7 @@ package day24_dateAndTime;
 
 
 
-import day17.Employee;
+import day17_CustomClasses.Employee;
 
 import java.util.ArrayList;
 import java.util.Arrays;

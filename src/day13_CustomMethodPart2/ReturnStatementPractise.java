@@ -1,7 +1,5 @@
 package day13_CustomMethodPart2;
 
-import day17.Employee;
-
 import java.util.Scanner;
 public class ReturnStatementPractise {
     public static void main(String[] args) {

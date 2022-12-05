@@ -1,6 +1,6 @@
 package day25_Constructor;
 
-import day17.Dog;
+import day17_CustomClasses.Dog;
 
 import java.util.ArrayList;
 import java.util.Arrays;
